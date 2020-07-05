@@ -1,14 +1,7 @@
-
-
-
-
-
-<!doctype html>
 <html lang="pt-br">
 <head>
 	<!-- Required meta tags -->
-	<meta charset="utf-8">
-	
+	<meta charset="utf-8">	
 	<title>Curruclum ideal</title>
 </head>
 <body>
